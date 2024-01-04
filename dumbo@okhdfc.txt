@@ -1,0 +1,17 @@
+[2023-09-04 16:11:52.79] 100 Recieved From Hetavi Shah
+[2023-09-05 12:38:13.981] 1000 Recieved From Hetavi Shah
+[2023-09-05 12:41:05.243] 1000 Paid To Hetavi Shah
+[2023-09-05 12:42:24.869] 100 Recieved From Hetavi Shah
+[2023-09-07 14:17:17.991] 1000.0 Paid To Hetavi Shah
+[2023-09-07 14:19:38.968] 100.0 Recieved From Hetavi Shah
+[2023-09-07 14:33:13.738] 100.0 Recieved From Hetavi Shah
+[2023-09-08 18:43:34.984] 122.0 Recieved From Hetavi Shah
+[2023-09-08 18:44:13.424] 100.0 Recieved From Hetavi Shah
+[2023-09-10 19:05:23.886] 10.0 Recieved From hetavi@oksbi (Hetavi Shah)
+[2023-10-06 11:14:26.106] 100.0 Recieved From sonali@oksbi (Sonali Shah)
+[2023-10-06 15:48:34.984] 1100.0 Recieved From hetavi.shah05@oksbi (Hetavi Shah)
+[2023-10-06 23:08:59.401] 11.0 Recieved From hetavi.shah05@oksbi (Hetavi Shah)
+[2023-10-06 23:11:15.695] 11.0 Recieved From hetavi.shah05@oksbi (Hetavi Shah)
+[2023-10-06 23:14:34.35] 11.0 Recieved From hetavi.shah05@oksbi (Hetavi Shah)
+[2023-10-06 23:17:18.94] 11.0 Recieved From hetavi.shah05@oksbi (Hetavi Shah)
+[2023-10-07 10:38:22.47] 100.0 Recieved From krashna@oksbi (Krashna Mehta)
